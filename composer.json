@@ -7,15 +7,7 @@
 	"require-dev": {
 		"automattic/jetpack-changelogger": "1.1.x-dev"
 	},
-	"repositories": [
-		{
-			"type": "path",
-			"url": "../../packages/*",
-			"options": {
-				"monorepo": true
-			}
-		}
-	],
+	"repositories": [],
 	"extra": {
 		"mirror-repo": "Automattic/action-pr-is-up-to-date",
 		"changelogger": {
