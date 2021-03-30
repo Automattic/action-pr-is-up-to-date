@@ -11,3 +11,6 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Initial release.
+
+### Fixed
+- Don't fail sanity check if tag is at master.
