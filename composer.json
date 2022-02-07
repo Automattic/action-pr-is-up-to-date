@@ -7,7 +7,6 @@
 	"require-dev": {
 		"automattic/jetpack-changelogger": "3.0.x-dev"
 	},
-	"repositories": [],
 	"extra": {
 		"autotagger": {
 			"major": true
