@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fix documentation of the token parameter in README.md.
+- Remove a stray comma.
 - Try and fix source file not found error by specifying path.
 
 ## [1.0.3] - 2022-02-09
