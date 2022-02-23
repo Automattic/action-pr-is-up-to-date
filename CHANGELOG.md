@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - BREAKING: Changed the default value for the `status` input.
 
 ### Fixed
+- Disable automatic garbage collection, like GitHub's checkout action does for its own checkouts.
 - Fix documentation of the token parameter in README.md.
 - Remove a stray comma.
 - Try and fix source file not found error by specifying path.
