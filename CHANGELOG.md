@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 - Disable automatic garbage collection, like GitHub's checkout action does for its own checkouts.
 - Fix documentation of the token parameter in README.md.
 - Remove a stray comma.
+- Speed up processing of tag push with paths.
 - Try and fix source file not found error by specifying path.
 
 ## [1.0.3] - 2022-02-09
