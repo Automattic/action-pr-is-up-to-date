@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - BREAKING: Changed the default value for the `status` input.
+- Updated package dependencies.
 
 ### Fixed
 - Disable automatic garbage collection, like GitHub's checkout action does for its own checkouts.
