@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - BREAKING: Changed the default value for the `status` input.
+- Renaming `master` to `main` in tests.
 - Updated package dependencies.
 
 ### Fixed
