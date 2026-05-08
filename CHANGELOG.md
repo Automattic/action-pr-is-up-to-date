@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.
+- Use git-native parent retrieval.
 
 ### Fixed
 - Fix detection of parent commits in shallow handling.
