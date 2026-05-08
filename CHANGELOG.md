@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.
 
+### Fixed
+- Fix detection of parent commits in shallow handling.
+
 ## [2.0.7] - 2026-02-04
 ### Fixed
 - Fail the workflow if updating the GitHub status fails. [#46021]
