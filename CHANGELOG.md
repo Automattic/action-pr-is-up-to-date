@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Fixed
+- Set `maintenance.auto` (instead of `gc.auto`) for compatibility with git 2.54.0. If for some reason you're still on git <2.30, you should upgrade that.
+
 ## [2.0.8] - 2026-05-08
 ### Fixed
 - Fix detection of parent commits in shallow handling. [#48649] [#48651]
